@@ -12,3 +12,5 @@ BuildBundlerMinifier - needed for generating site.js and site.css
 Knockout.Mapping
 	Adds knockoutjs to the project
 	
+EntityFrammwork
+	Adding db contexts to the project
