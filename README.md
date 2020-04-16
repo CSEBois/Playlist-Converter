@@ -42,7 +42,7 @@ All pull requests **require** a code review before merging.
 Master should **always** be kept clean and working so that is what the requests are for.
 ______________________________________________
 ## Links
-JIRA: https://playlistconverter.atlassian.net/secure/RapidBoard.jspa?rapidView=1&selectedIssue=PC-7 - Text Josh to be added
+JIRA: https://playlistconverter.atlassian.net/secure/RapidBoard.jspa?rapidView=1 - Text Josh to be added
 
 Spotify: 
 	https://developer.spotify.com/
