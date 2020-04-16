@@ -7,7 +7,7 @@ Follow the steps in this document to make sure that code is created and committe
 Let me know if you have questions or need any help! Excited to get back to work!
 -Josh
 ______________________________________________
-##Setting up your machine:
+## Setting up your machine:
 1. Download the Repository onto your machine from GitHub - Green button, download zip
 2. Unzip the file to a location on your machine
 3. Install Visual Studio Community Edition - This is the preferred IDE for .NET development
@@ -28,11 +28,11 @@ ______________________________________________
 12. Click the Green arrow at the top that says IIS Express to run the code and see the current home page
 13. If no errors appear, you have done this correctly!
 ______________________________________________
-##Working on a Branch
+## Working on a Branch
 All code should be written on a branch off master. This is done by cutting a branch which can be done like you did to set up your machine or from GitKraken.
 Make the branch name relevant to the work you will be doing so that we can keep track of it later. 
 ______________________________________________
-##Committing Code
+## Committing Code
 When you have code to be merged, commit all code through the Git CLI or GitKraken.
 If it is the first time this branch is being pushed, make sure to attach it to the origin track.
 Commit all files that you physically changed, if GitKraken says that it is a binary file, **do not** stage it.
@@ -41,7 +41,7 @@ All pull requests **require** a code review before merging.
 **Keep email notifications on for this repository or send a message in the group chat** this is how we know to check the code so that it can be added and tested.
 Master should **always** be kept clean and working so that is what the requests are for.
 ______________________________________________
-##Links
+## Links
 JIRA: https://playlistconverter.atlassian.net/secure/RapidBoard.jspa?rapidView=1&selectedIssue=PC-7 - Text Josh to be added
 
 Spotify: 
@@ -80,8 +80,8 @@ Other:
 	https://github.com/plamere/spotipy
 	
 ______________________________________________
-##File List:
-###A basic list of files and where to find certain files
+## File List:
+### A basic list of files and where to find certain files
 /Views - Holds all site pages (razor)
 /Controllers - Holds all Controllers
 /Models - Holds all Models
@@ -94,7 +94,7 @@ ______________________________________________
 /home/index.cshtml holds the main home page for the site
 
 ______________________________________________
-##NuGetPackage Install:
+## NuGetPackage Install:
 BuildBundlerMinifier - needed for generating site.js and site.css
 	Gives ability to create multiple js files and combine them into one file
 
